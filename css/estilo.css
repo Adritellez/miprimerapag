@@ -1,0 +1,25 @@
+.fondoGris {
+	background: lightgray;
+	padding: 4px;
+	position: relative;
+	text-align: center;	
+}
+
+.fondoGris * {
+
+}
+
+.fondoGris input {
+	width: 45%;
+	border-radius: 10px;
+}
+.fondoGris .contenedor p {
+	color: white;
+}
+.fondoGris strong {
+	color: red;
+}
+
+.fondoRojo {
+	background: red;
+}
